@@ -7,6 +7,9 @@
 .font {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.linia {
+    text-decoration: line-through;
+}
 div {
     text-align: center;
 }
